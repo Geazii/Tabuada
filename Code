@@ -11,12 +11,6 @@ namespace _4.Tabuada
         static void Main(string[] args)
         {
 
-            /* Enunciado: Faça um programa que receba um número e que calcule a tabuada desse número. 
-             * O programa deve:
-             * a) Aceitar números de 1 a 10. Caso seja entrado um número fora dessa faixa deve mostrar uma mensagem de erro e terminar a execução do programa.
-             * b) Mostrar o nome da tabuada por extenso. Ex: “Tabuada do OITO”;
-             * c) Mostrar a tabuada do número;*/
-
             Console.Write("Escolha uma Tabuada [1 a 10]: " );
             int Escolha = int.Parse(Console.ReadLine());
             
