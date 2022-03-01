@@ -1,0 +1,7 @@
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\obj\Debug\4. Tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\obj\Debug\4. Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\bin\Debug\_4.Tabuada.exe.config
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\bin\Debug\_4.Tabuada.exe
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\bin\Debug\_4.Tabuada.pdb
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\obj\Debug\_4.Tabuada.exe
+C:\Users\Geazi José\Desktop\Aula02\L1. Lista de Exercícios\4. Tabuada\obj\Debug\_4.Tabuada.pdb
